@@ -107,7 +107,7 @@ plt.axis('off')
 - The input image is displayed.
 - The image serves as the source for morphological processing.
 
-<img width="411" height="412" alt="image" src="https://github.com/user-attachments/assets/5ac2f826-c7e0-443c-872c-77397e343b11" />
+<img width="422" height="452" alt="image" src="https://github.com/user-attachments/assets/b207a10c-dbd8-485b-bdf6-23e1758f40a5" />
 
 
 
@@ -130,7 +130,7 @@ plt.axis('off')
 - Broken regions are connected.
 - Object boundaries become more continuous.
 
-  <img width="411" height="412" alt="image" src="https://github.com/user-attachments/assets/2fa0fb9b-2cc4-456e-bb86-31a69e6bf115" />
+<img width="427" height="462" alt="image" src="https://github.com/user-attachments/assets/af0f3e2a-29af-4725-80aa-8a960b7a9763" />
 
 ## Applications
 
